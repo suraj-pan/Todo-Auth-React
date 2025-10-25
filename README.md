@@ -6,7 +6,7 @@ This project demonstrates secure user authentication, state management with Cont
 ---
 
 ## 🔥 Live Demo  
-👉 [Click here to view the live project](https://your-live-demo-link.vercel.app)  
+👉 [Click here to view the live project](https://react-todo-auth-firebase.netlify.app/)  
 *(Deployed using Firebase Hosting or Vercel)*
 
 ---
