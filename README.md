@@ -48,5 +48,5 @@ Follow these steps to run this project locally 👇
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/taskflow-pro.git
+git clone https://github.com/suraj-pan/Todo-Auth-React.git
 cd taskflow-pro
